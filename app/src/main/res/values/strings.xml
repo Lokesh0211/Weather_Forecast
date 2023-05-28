@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="wind">Wind :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="pressure">Pressure :</string>
+    <string name="something_went_wrong_please_check_your_connection">Something went wrong please check your connection</string>
+    <string name="search">Search</string>
+    <string name="enter_a_city">Enter a city</string>
+</resources>
