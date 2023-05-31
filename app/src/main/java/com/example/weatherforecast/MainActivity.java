@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
             } catch (Exception e) {
                 binding.progressBar.setVisibility(View.GONE);
                 binding.screen.setVisibility(View.GONE);
-                binding.txtErrorMsg.setVisibility(View.VISIBLE);
+                binding.txtErrorMsg.setVisibility(View.GONE);
                 Toast.makeText(MainActivity.this, "Error: " + e.getMessage(), Toast.LENGTH_SHORT).show();
             }
         }
